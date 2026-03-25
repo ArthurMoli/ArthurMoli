@@ -1,11 +1,16 @@
 <div align = "center">
 <h1>Welcome to my GitHub!</h1>
 <div align = "center">
-<p>I'm studying System Analysis and Development at SESI / SENAI 💻
+<p>
+Hi, I'm Arthur, a Full Stack Developer passionate about solving problems through technology.
+I hold a Technologist Degree in Systems Analysis and Development from UniSenai 🇧🇷.
 
-Data Analyst at DropLatam ✈
+Experience:
 
-At the moment I study HTML, CSS, JS, JAVA, PostgreSQL and i started studying React 📚</p>
+• Data Science Intern at CLAMED (Aug 2022 – Dec 2022)  
+• Data Analyst at DropLatam ✈ (Jul 2024 – Feb 2025)  
+• Full Stack Developer at DropSmart (Feb 2025 – Present)
+</p>
 </div>
 <br>
 <div align="center">
