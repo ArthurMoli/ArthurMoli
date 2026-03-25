@@ -1,16 +1,57 @@
 <div align = "center">
 <h1>Welcome to my GitHub!</h1>
-<div align = "center">
+<div align="center">
+
+<h2>Hi, I'm Arthur 👋</h2>
+
 <p>
-Hi, I'm Arthur, a Full Stack Developer passionate about solving problems through technology.
+I'm a Full Stack Developer passionate about solving problems through technology.
 I hold a Technologist Degree in Systems Analysis and Development from UniSenai 🇧🇷.
-
-Experience:
-
-• Data Science Intern at CLAMED (Aug 2022 – Dec 2022)  
-• Data Analyst at DropLatam ✈ (Jul 2024 – Feb 2025)  
-• Full Stack Developer at DropSmart (Feb 2025 – Present)
 </p>
+
+<hr />
+
+<h3>💼 Experience</h3>
+<p>
+• <strong>Data Science Intern at CLAMED</strong> (Aug 2022 – Dec 2022) – Data analysis, visualization, and predictive modeling using Python and Pandas<br>
+• <strong>Data Analyst at DropLatam ✈</strong> (Jul 2024 – Feb 2025) – Automated reports and dashboards with Power BI, Excel, and Google Apps Script<br>
+• <strong>Full Stack Developer at DropSmart</strong> (Feb 2025 – Present) – Developing full-stack web applications with TypeScript, Remix, and Feathers.js
+</p>
+
+<hr />
+
+<h3>💻 Languages & Technologies</h3>
+<p>
+• Python (Pandas, Flask, data analysis, REST APIs)<br>
+• TypeScript (full-stack applications, server-side & client-side)<br>
+• Remix (modern web frameworks)<br>
+• Feathers.js (real-time APIs and microservices)<br>
+• Google Apps Script (automation and workflow integration)<br>
+• Power BI (data visualization, dashboards, reporting)<br>
+• Excel (data analysis, advanced formulas, macros)<br>
+• HTML, CSS, JavaScript (web fundamentals)
+</p>
+
+<hr />
+
+<h3>🛠 Tools & Platforms</h3>
+<p>
+• Claude Code (AI coding assistant)<br>
+• Anaconda Navigator (Python data environments)<br>
+• Linux (CLI, scripting, server management)<br>
+• Git & GitHub (version control, collaboration)<br>
+• Docker (containerization, deployment)<br>
+• VS Code (IDE, extensions for development)<br>
+• Insomnia (API testing and development)<br>
+• Jupyter Notebook / JupyterLab (data analysis, prototyping)
+</p>
+
+<hr />
+
+<p>
+Looking forward to connecting and collaborating on projects that push technology forward! 🚀
+</p>
+
 </div>
 <br>
 <div align="center">
