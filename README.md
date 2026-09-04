@@ -26,11 +26,20 @@ back-end em TypeScript, Python e Java. Tecnólogo em Análise e Desenvolvimento 
 <tr>
 <td width="50%" valign="top">
 
+<strong><a href="https://arthurmoli.github.io/GeradorOS/">Gerador de Ordem de Serviço</a></strong> — <a href="https://arthurmoli.github.io/GeradorOS/">abrir</a><br>
+Emissão de ordens de serviço em PDF para uma oficina de mecânica náutica.<br>
+<sub>JavaScript · pdfmake · sem backend</sub>
+
+</td>
+<td width="50%" valign="top">
+
 <strong><a href="https://github.com/ArthurMoli/technical-assessment-inside">ArthurBank</a></strong><br>
 API de transações financeiras com processamento idempotente e retry.<br>
 <sub>TypeScript · Express · Remix · SQLite · 27 testes em Vitest</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <strong><a href="https://github.com/ArthurMoli/imobiliaria-syntax">Imobiliária Syntax</a></strong><br>
@@ -38,8 +47,6 @@ Plataforma de corretagem com perfis de cliente e corretor, obras e notificaçõe
 <sub>Django 5 · Tailwind CSS · SQLite</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <strong><a href="https://arthurmoli.github.io/repoTrabalhoAWS/">Plano de Migração para Nuvem</a></strong> — <a href="https://arthurmoli.github.io/repoTrabalhoAWS/">ver ao vivo</a><br>
@@ -47,12 +54,16 @@ Estudo de TCO comparando infraestrutura local e AWS em 3 anos.<br>
 <sub>Reveal.js · Mermaid · AWS</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <strong><a href="https://github.com/ArthurMoli/syntax-app">PiPlay</a></strong><br>
 Protótipo de app de descoberta de eventos, com feed, detalhes e ofertas.<br>
 <sub>Android · Java · AndroidX</sub>
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
